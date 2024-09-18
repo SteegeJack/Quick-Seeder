@@ -1,0 +1,3 @@
+TestFunction <- function() {
+    print("Goodbye")
+}
