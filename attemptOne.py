@@ -6,8 +6,6 @@ ro.r['source']('./tutorials/tutorialAttempt.R')
 exitInput = ""
 
 while(exitInput != "Stop"):
-    exitInput = input("Type 'Stop' to end the loop: ")
-
-print("hewo")
+    exitInput = input("Type 'Stop' to end the program: ")
 
 
